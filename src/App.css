@@ -1,0 +1,22 @@
+.app-nav {
+  margin-bottom: 30px;
+}
+
+.app-nav-list {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-item {
+}
+
+.active-link {
+  color: blue;
+}
+
+.nav-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
